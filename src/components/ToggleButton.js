@@ -2,7 +2,7 @@
 
 import React from 'react';
 
-class ToggleButton extends React.Component { 
+class ToggleButton extends React.Component {
   constructor() {
     super();
 
